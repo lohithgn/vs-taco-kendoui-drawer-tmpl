@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget defaultlocale="$currentuiculturename$" id="io.taco.kendouidrawerapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps">
-    <name>KendoUIBlankApp</name>
+    <name>KendoUIDrawerApp</name>
     <description>A cross-platform mobile device application with Drawer navigation.
     
 This template shows you how to use the Kendo UI Drawer widget to implement the navigation between the views of the app. The drawer is a hidden menu that slides to reveal.</description>
