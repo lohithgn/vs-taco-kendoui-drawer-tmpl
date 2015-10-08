@@ -2,7 +2,7 @@
 
 A cross-platform mobile device application with Drawer navigation.
     
-This template shows you how to use the Kendo UI Drawer widget to implement the navigation between the views of the app. The drawer is a hidden menu that slides to reveal. This is a blank template that provides the Kendo UI Core framework files and the references for development with the framework to be used with TACO CLI.
+This template shows you how to use the Kendo UI Drawer widget to implement the navigation between the views of the app. The drawer is a hidden menu that slides to reveal. This template provides the Kendo UI Core framework files and the references for development with the framework to be used with TACO CLI.
 
 #Usage
 Creating a new app
